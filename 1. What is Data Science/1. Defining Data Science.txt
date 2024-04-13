@@ -5,15 +5,9 @@ You are a data scientist about to start a new project. What would one of your ke
 
 Designing data collection methods
 
-
-
-✓Asking questions to clarify the business need✓
-
-
+🔥Asking questions to clarify the business need🔥
 
 Collecting vast quantities of data from varied sources
-
-
 
 Focusing solely on data visualization
 
@@ -27,17 +21,11 @@ When did the term "data science" come into existence and who is credited with co
 
 1 / 1 point
 
-✓2009-2011, DJ Patil or Andrew Gelman✓
-
-
+🔥2009-2011, DJ Patil or Andrew Gelman🔥
 
 1990s, DJ Patil and Andrew Gelman
 
-
-
 1960s, no specific person credited
-
-
 
 Early 2000s, led by business analysts
 
@@ -53,17 +41,11 @@ As an aspiring data scientist, what primary qualities should you possess to succ
 
 Strong expertise in a specific industry.
 
-
-
 Extensive experience with data analysis software.
-
-
 
 Proficiency in analytics platforms and software.
 
-
-
-✓Curiosity and storytelling skills.✓
+🔥Curiosity and storytelling skills.🔥
 
 
 Correct
