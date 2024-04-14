@@ -1,0 +1,87 @@
+Question 1
+What is the concept that refers to data sets of massive scale, rapid generation, and diverse types that challenge traditional analysis methods like those used in relational databases?
+
+1 / 1 point
+
+🔥Big data🔥
+
+Machine learning
+
+Deep learning
+
+Data mining
+
+Correct
+Correct! Big data refers to data sets that are massive, quickly generated, and varied, challenging traditional analysis methods.
+
+
+Question 2
+How does Generative AI contribute to addressing the challenges faced by data scientists, researchers, and analysts when exploring significant data patterns and insights?
+
+1 / 1 point
+
+By automating the process of collecting and preprocessing data
+
+By speeding up the traditional manual analysis process
+
+🔥By enabling the derivation and evaluation of hypotheses from diverse data sources🔥
+
+By replacing the role of data scientists in analyzing data patterns
+
+
+Correct
+Correct! Generative AI helps bridge the gap by allowing the exploration and evaluation of multiple hypotheses from various data sources, enhancing decision-making.
+
+
+Question 3
+Imagine you’re working with generative AI to create new instances of data that resemble your original dataset’s patterns. Which model would you choose as the foundational deep learning approach for this task?
+
+1 / 1 point
+
+Decision Trees
+
+Linear Regression
+
+🔥Generative Adversarial Networks (GANs) and Variational Autoencoders (VAEs)🔥
+
+Neural Networks
+
+
+Correct
+Correct! GANs and VAEs are the deep learning models that form the foundation of generative AI by learning patterns from extensive data and generating new instances.
+
+
+Question 4
+Which technology is characterized by its ability to learn patterns on its own, such as distinguishing between objects like cats and dogs, and even generating speech that sounds like a learning baby?
+
+1 / 1 point
+
+🔥Deep Learning🔥
+
+Basic Pattern Recognition
+
+Linear Algebra Transformations
+
+Traditional Neural Networks
+
+
+Correct
+Correct! Deep learning is a technology that allows systems to learn complex patterns and features on their own, even distinguishing between objects and generating speech.
+
+
+Question 5
+In the context of fintech, what is a common application of machine learning that resembles the recommendation system used by Netflix?
+
+1 / 1 point
+
+Precision and Recall
+
+Cluster Analysis
+
+🔥Recommendations🔥
+
+Predictive Analytics
+
+
+Correct
+Correct! Just like how Netflix suggests shows or movies based on your viewing history, machine learning is used in fintech to provide recommendations.
