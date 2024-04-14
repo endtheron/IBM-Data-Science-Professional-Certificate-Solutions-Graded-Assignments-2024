@@ -79,6 +79,5 @@ NoSQL databases
 
 Apache Hive
 
-
 Correct
 Correct! Apache Hadoop is the technology described in the passage that provides distributed storage and processing for big data with scalability and support for various data formats.
