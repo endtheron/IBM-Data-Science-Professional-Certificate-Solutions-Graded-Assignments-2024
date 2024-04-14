@@ -1,0 +1,71 @@
+Question 1
+Why did Lila focus on communication and storytelling skills?
+
+1 point
+
+To become a writer
+
+🔥To communicate her findings effectively as a data scientist🔥
+
+To impress her friends
+
+To improve her public speaking abilities
+
+
+
+Question 2
+What is the importance of domain knowledge in data science?
+
+1 point
+
+It helps you become a software developer.
+
+It helps you become a better e-commerce website developer.
+
+🔥It allows you to apply data science skills effectively in a specific field.🔥
+
+It's not important at all.
+
+
+
+Question 3
+What key skills did Lila acquire during her data science education?
+
+1 point
+
+History and literature knowledge
+
+Music and art appreciation
+
+🔥Statistics, machine learning, data analysis🔥
+
+Cooking and gardening
+
+
+
+Question 4
+What sources did Lila explore to procure data for her data science project?
+
+1 point
+
+Only repositories and databases
+
+Product professionals, data engineers, and domain specialists
+
+Websites and libraries
+
+🔥Various repositories, websites, and databases🔥
+
+
+Question 5
+What does Lila do at the end of her first project as a junior data scientist to effectively convey insights and recommendations to stakeholders?
+
+1 point
+
+She shares raw data with stakeholders.
+
+🔥She creates a comprehensive report or presentation.🔥
+
+She writes a blog post.
+
+She organizes a meeting with stakeholders.
