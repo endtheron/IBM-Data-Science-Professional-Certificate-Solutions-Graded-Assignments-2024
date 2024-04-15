@@ -1,0 +1,138 @@
+Question 1
+Which library is used for machine learning?
+
+1 / 1 point
+
+🔥Scikit-learn🔥
+
+Matplotlib
+
+Pandas
+
+NumPy
+
+
+Question 2
+Which deep learning library in Python is used for experimentation?
+
+1 / 1 point
+
+Seaborn
+
+Pandas
+
+NumPy
+
+🔥PyTorch🔥
+
+
+Question 3
+Which API can be used with TensorFlow?
+
+1 / 1 point
+
+🔥Julia🔥
+
+Seaborn
+
+C language
+
+Panda
+
+
+Question 4
+What does T stand for in REST?
+
+1 / 1 point
+
+🔥Transfer🔥
+
+Tensor
+
+Transform
+
+Transport
+
+
+Question 5
+Which of the following data sets is considered open data?
+
+1 / 1 point
+
+🔥Government data🔥
+
+Commercially sensitive
+
+Customer data
+
+Pricing data
+
+
+Question 6
+Which license  stipulates that the modified version of the data should be published under the same license terms as the original data ?
+
+1 / 1 point
+
+CDLA-License
+
+CDLA-Dataset
+
+🔥CDLA-Sharing🔥
+
+CDLA-Permissive
+
+
+Question 7
+Which tab on the IBM developer web page enables you to open the Data Asset eXchange page?
+
+1 / 1 point
+
+Community
+
+Topics
+
+🔥Open Source at IBM🔥
+
+Products & Services
+
+
+Question 8
+Which tab in the Data Asset eXchange project page enables you to view all the Jupyter Notebooks?
+
+1 / 1 point
+
+🔥Assets🔥
+
+Overview
+
+Manage
+
+Jobs
+
+
+Question 9
+Which machine learning model is used to solve regression and classification problems?
+
+1 / 1 point
+
+Model training
+
+🔥Supervised Learning🔥
+
+Reinforcement Learning
+
+Unsupervised Learning
+
+
+Question 10
+On the MAX object detector page, which online tool is used by developers to edit front-end languages?
+
+1 / 1 point
+
+Extract Prediction
+
+Serverless app
+
+🔥CodePen🔥
+
+Node-Red Flow

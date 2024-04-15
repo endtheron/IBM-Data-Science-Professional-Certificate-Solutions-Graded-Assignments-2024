@@ -1,0 +1,138 @@
+Question 1
+Which Data Science category enables you to present data in the form of charts, plots, and maps?
+
+1 / 1 point
+
+Data Integration and Transformation
+
+Model Building
+
+🔥Data Visualization🔥
+
+Data Management
+
+
+
+Question 2
+Which Data Science category uses tools like Fiddler to track the performance of deployed models in a production environment?
+
+1 / 1 point
+
+Data Visualization
+
+🔥Model Monitoring🔥
+
+Data Integration and Transformation
+
+
+
+Question 3
+Which Data Science category enables you to train the data and analyze patterns using suitable machine learning algorithms?
+
+1 / 1 point
+
+🔥Model Building🔥
+
+Data Visualization
+
+Model Deployment
+
+Model Monitoring and Assessment
+
+
+Question 4
+Which of the following is a good example of code asset management?
+
+1 / 1 point
+
+Watson Studio
+
+🔥GitHub🔥
+
+Apache Spark
+
+Jupyter Notebook
+
+
+Question 5
+What is the purpose of using Apache airflow?
+
+1 / 1 point
+
+🔥Data Integration and Transformation🔥
+
+Model Deployment
+
+Data Management
+
+Data Visualization
+
+
+Question 6
+Which of the following statement is incorrect?
+
+1 / 1 point
+
+Jupyter supports more than a hundred different programming languages through “kernels.”
+
+🔥Jupyter Notebook is not an open source tool.🔥
+
+Jupyter Notebooks unifies documentation, code, output from the code, shell commands, and visualizations in a single document
+
+JupyterLab is the next version of Jupyter Notebooks, and in the long-term will replace Jupyter Notebooks
+
+
+Question 7
+Which plot is used to plot a series of data points over time?
+
+1 / 1 point
+
+🔥Line Chart🔥
+
+Tree Map
+
+Map Chart
+
+Bar Chart
+
+
+Question 8
+Which of the following is the other name for Data Asset Management?
+
+1 / 1 point
+
+Data Currency
+
+🔥Data governance🔥
+
+Data Lakes
+
+Data Store
+
+
+Question 9
+What does model deployment use to enable data-based decisions?
+
+1 / 1 point
+
+Gitlab
+
+Packages
+
+Web Applications
+
+🔥APIs🔥
+
+
+Question 10
+Which of the following tool is a part of the IBM Watson Studio?
+
+1 / 1 point
+
+Cloudant
+
+Informatica
+
+DataMeer
+
+🔥Data Refinery🔥

@@ -1,0 +1,134 @@
+Question 1
+What does Python use for Natural Language Processing?
+
+1 / 1 point
+
+TensorFlow
+
+🔥Natural Language Toolkit🔥
+
+Keras
+
+Pandas
+
+
+Question 2
+In Python, which library is not used for Data Science?
+
+1 / 1 point
+
+Pandas
+
+SciPy
+
+🔥Caffe🔥
+
+Natural Language Toolkit
+
+
+Question 3
+Which of the following is developed using the R language? 
+
+1 / 1 point
+
+Automation
+
+Relational DBMS
+
+🔥Graphing🔥
+
+Image processing
+
+
+Question 4
+ Which statement is true for Open source and free software?  
+
+1 / 1 point
+
+🔥Open source is more business focused, while free software is more focused on a set of values.🔥  
+
+Both open source and free software doesn't support collaboration.  
+
+Open source is more focused on a set of values, while free software is more business focused.  
+
+None of the above.
+
+
+Question 5
+Which of the following is a global R community? 
+
+1 / 1 point
+
+🔥useR🔥
+
+RealPython
+
+HackerEarth
+
+PyLadies
+
+
+Question 6
+Is the following statement true or false: R integrates well with C and C++..  
+
+1 / 1 point
+
+🔥True🔥
+
+False
+
+
+Question 7
+Which of the following is not an SQL language element?
+
+1 / 1 point
+
+🔥Spreadsheets🔥
+
+Predicate
+
+Clauses
+
+Queries
+
+
+Question 8
+Why is SQL an American National Standards Institute (or AN-see) standard?
+
+1 / 1 point
+
+SQL can considerably speed up workflow executions
+
+SQL manages data
+
+🔥SQL knowledge applies to multiple databases🔥
+
+The SQL language is subdivided into several language elements
+
+
+Question 9
+Which Scala program is used for data science?
+
+1 / 1 point
+
+MongoDB
+
+Caffe
+
+🔥Apache Spark🔥
+
+Weka
+
+
+Question 10
+Which is the language used to develop the Hadoop framework?
+
+1 / 1 point
+
+🔥Java🔥
+
+C++
+
+Python
+
+Ruby
