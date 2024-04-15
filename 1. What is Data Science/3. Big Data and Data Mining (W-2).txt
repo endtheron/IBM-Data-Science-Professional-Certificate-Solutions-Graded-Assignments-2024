@@ -11,8 +11,6 @@ Cloud computing requires users to purchase and install their own applications lo
 
 Users have more control over their applications in the cloud.
 
-Correct
-Correct! One of the main benefits of cloud computing is allowing users to access the latest application versions without purchasing new copies.
 
 
 Question 2
@@ -28,8 +26,6 @@ The Cloud offers up-to-date tools and libraries for data scientists but restrict
 
 The Cloud allows data scientists to store data locally and use advanced computing algorithms.
 
-Correct
-Correct! The passage highlights that the Cloud allows data scientists to work with large datasets, deploy advanced algorithms and tools centrally, and collaborate with multiple entities.
 
 
 Question 3
@@ -45,8 +41,6 @@ Vision, Velocity, and Visualization
 
 Volume, Vector, and Verification
 
-Correct
-Correct! The passage mentions the "V's of Big Data" as Velocity, Volume, Variety, Veracity, and Value.
 
 
 Question 4
@@ -63,8 +57,6 @@ Interest in data science has shifted primarily to parents rather than students.
 Interest in data science has remained constant, with no significant changes in enrollment in related undergraduate courses.
 
 
-Correct
-Correct! The passage mentions that interest in data science has increased, resulting in more students enrolling in undergraduate courses related to data science and analytics.
 
 Question 5
 Which open-source technology provides distributed storage and processing of big data, allowing scalability and support for various data formats?
@@ -78,6 +70,3 @@ Apache Spark
 NoSQL databases
 
 Apache Hive
-
-Correct
-Correct! Apache Hadoop is the technology described in the passage that provides distributed storage and processing for big data with scalability and support for various data formats.

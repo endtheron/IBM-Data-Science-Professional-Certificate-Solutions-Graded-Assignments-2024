@@ -11,8 +11,6 @@ Deep learning
 
 Data mining
 
-Correct
-Correct! Big data refers to data sets that are massive, quickly generated, and varied, challenging traditional analysis methods.
 
 
 Question 2
@@ -29,9 +27,6 @@ By speeding up the traditional manual analysis process
 By replacing the role of data scientists in analyzing data patterns
 
 
-Correct
-Correct! Generative AI helps bridge the gap by allowing the exploration and evaluation of multiple hypotheses from various data sources, enhancing decision-making.
-
 
 Question 3
 Imagine you’re working with generative AI to create new instances of data that resemble your original dataset’s patterns. Which model would you choose as the foundational deep learning approach for this task?
@@ -46,9 +41,6 @@ Linear Regression
 
 Neural Networks
 
-
-Correct
-Correct! GANs and VAEs are the deep learning models that form the foundation of generative AI by learning patterns from extensive data and generating new instances.
 
 
 Question 4
@@ -65,9 +57,6 @@ Linear Algebra Transformations
 Traditional Neural Networks
 
 
-Correct
-Correct! Deep learning is a technology that allows systems to learn complex patterns and features on their own, even distinguishing between objects and generating speech.
-
 
 Question 5
 In the context of fintech, what is a common application of machine learning that resembles the recommendation system used by Netflix?
@@ -81,7 +70,3 @@ Cluster Analysis
 🔥Recommendations🔥
 
 Predictive Analytics
-
-
-Correct
-Correct! Just like how Netflix suggests shows or movies based on your viewing history, machine learning is used in fintech to provide recommendations.

@@ -12,9 +12,6 @@ Invest in expensive data analytics software.
 Increase your advertising budget to attract more customers.
 
 
-Correct
-Correct! Documenting your data practices ensures data consistency and availability for analysis.
-
 
 Question 2
 Imagine you are a business executive looking to harness the power of data science to gain a competitive advantage for your company. After hearing about the impact of data science and big data on businesses, what key takeaway can you gather from the example of Netflix’s success through data analysis?
@@ -30,9 +27,6 @@ Data science primarily benefits online shopping websites like Amazon.
 Implementing wearable devices is the most effective way to collect data for analysis.
 
 
-Correct
-Correct! Netflix’s success demonstrates how analyzing customer preferences and behaviors can provide a competitive edge.
-
 
 Question 3
 In the realm of healthcare, how do data science and predictive analytics contribute to improving patient outcomes and assisting physicians?
@@ -46,7 +40,3 @@ Data science in healthcare is limited to basic descriptive analytics.
 Data science tools mainly benefit oncologists in recommending specific tests for patients.
 
 Data science in healthcare primarily focuses on gene markers and environmental factors.
-
-
-Correct
-Correct! Data science systems help physicians access up-to-date information tailored to their specific patients, thereby improving patient outcomes.

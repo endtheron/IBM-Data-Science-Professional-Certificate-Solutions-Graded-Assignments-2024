@@ -12,9 +12,6 @@ Collecting vast quantities of data from varied sources
 Focusing solely on data visualization
 
 
-Correct
-Correct! Data scientists use their curiosity to ask questions that help define the problem and guide the analysis.
-
 
 Question 2
 When did the term "data science" come into existence and who is credited with coining the term?
@@ -30,9 +27,6 @@ When did the term "data science" come into existence and who is credited with co
 Early 2000s, led by business analysts
 
 
-Correct
-Correct! The term "data science" emerged around 2009-2011 and is attributed to individuals like DJ Patil and Andrew Gelman.
-
 
 Question 3
 As an aspiring data scientist, what primary qualities should you possess to succeed in the field?
@@ -46,7 +40,3 @@ Extensive experience with data analysis software.
 Proficiency in analytics platforms and software.
 
 🔥Curiosity and storytelling skills.🔥
-
-
-Correct
-Correct! Curiosity, the ability to take positions, and storytelling skills are essential qualities for an aspiring data scientist.
