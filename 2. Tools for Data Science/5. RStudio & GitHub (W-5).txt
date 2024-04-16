@@ -1,0 +1,146 @@
+Question 1
+Which of the following is True about R language ?
+
+1 / 1 point
+
+R is used for statistical inference and does not support visualization
+
+🔥R supports importing of data from different sources like flat files, databases🔥 
+
+R functions require lots of coding compared to other Data science tools
+
+R requires installation of additional libraries to handle data analysis
+
+
+
+Question 2
+Which R library is used for machine learning?
+
+1 / 1 point
+
+dplyr
+
+ggplot
+
+stringr 
+
+🔥caret🔥
+
+
+
+Question 3
+Which function in ggplot adds a title to the plot?
+
+1 / 1 point
+
+library
+
+🔥ggtitle🔥
+
+geom point
+
+ggplot
+
+
+
+Question 4
+Which function is used to specify appropriate names for both axes in a plot?
+
+1 / 1 point
+
+library
+
+ggplot
+
+🔥xlab and ylab🔥
+
+geom point 
+
+
+
+Question 5
+What is a copy of a repository?
+
+1 / 1 point
+
+🔥Fork🔥
+
+SSH protocol
+
+Pull request
+
+Working directory
+
+
+
+Question 6
+How does GitHub provide streamline testing and delivery?
+
+1 / 1 point
+
+With branching 
+
+With merging
+
+With reviewing and including comments 
+
+🔥With Built-in Continuous Integration (CI) and Continuous Delivery (CD)🔥
+
+
+
+Question 7
+In GitHub, what is an organization?
+
+1 / 1 point
+
+🔥A collection of user accounts that owns repositories 🔥
+
+A name you must specify for your repository
+
+A path to the code files in a project
+
+The top level of a repository tree
+
+
+
+Question 8
+On which tab in the Repository can you see all the source files?
+
+1 / 1 point
+
+Projects
+
+Pull requests 
+
+🔥Code🔥
+
+Issues 
+
+
+Question 9
+How do you save changes in the Repository?
+
+1 / 1 point
+
+Add file
+
+Save changes
+
+🔥Commit changes🔥 
+
+Create new file
+
+
+
+Question 10
+Which option enables you to add a file to the Repository from your local machine?
+
+1 / 1 point
+
+🔥Upload files🔥
+
+Commit changes
+
+New Repository
+
+Create new file
