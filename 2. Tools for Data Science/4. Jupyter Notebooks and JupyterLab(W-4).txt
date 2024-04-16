@@ -1,0 +1,148 @@
+Question 1
+In which formats can you share a notebook with other users?
+
+1 / 1 point
+
+🔥PDF🔥
+
+xls
+
+doc
+
+ppt
+
+
+
+Question 2
+What is a feature of a JupyterLab?
+
+1 / 1 point
+
+Is not an open source
+
+Allows access to a single Notebook
+
+Allows support of a single HTML file format
+
+🔥Interactive control of the notebook cells and output🔥
+
+
+
+Question 3
+Which option gives the output of the current highlighted code cell in Jupyter Notebook?
+
+1 / 1 point
+
+Run -> Render All Markdown Cells
+
+Edit -> Run
+
+🔥Run-> Run Selected Cells🔥
+
+Run -> Run All Cells
+
+
+
+Question 4
+How can you switch the kernel in the Jupyter Notebook?
+
+1 / 1 point
+
+By clicking on the Code option
+
+From the Edit menu on top of the notebook  
+
+By clicking the top left of the notebook
+
+🔥By clicking the top right of the notebook🔥
+
+
+
+Question 5
+Which of the following can be used to work with Jupyter Notebook?  
+
+1 / 1 point
+
+🔥Browser🔥
+
+Notepad++  
+
+Explorer  
+
+Notepad  
+
+
+
+Question 6
+What do you use to convert the ipynb file to other formats?  
+
+1 / 1 point
+
+Preprocessor
+
+🔥Exporter🔥
+
+Client Browser
+
+Postprocessor
+
+
+
+Question 7
+What is one of the features of JupyterLite?
+
+1 / 1 point
+
+Default kernel is SQLite
+
+Requires a dedicated server
+
+🔥Can create interactive graphics and visualizations🔥
+
+It is not a static website
+
+
+
+Question 8
+What is one of the features of GoogleColab?
+
+1 / 1 point
+
+🔥You can clone GitHub projects and execute them in GoogleColab🔥
+
+You need to set up and install GoogleColab Jupyter notebooks
+
+GoogleColab Jupyter notebooks execute on a server
+
+GoogleColab projects are stored on the local machine
+
+
+
+Question 9
+Which environment is used for creating and modifying Jupyter Notebooks on a local device?
+
+1 / 1 point
+
+GoogleColab
+
+Python
+
+🔥Visual Studio Code🔥
+
+SQLite
+
+
+
+10.
+Question 10
+How can you execute Python code in Visual Studio code?
+
+1 / 1 point
+
+🔥By installing Python extensions🔥
+
+By clicking on Download as
+
+By selecting Markdown from the drop-down menu
+
+By selecting Code from the drop-down menu
