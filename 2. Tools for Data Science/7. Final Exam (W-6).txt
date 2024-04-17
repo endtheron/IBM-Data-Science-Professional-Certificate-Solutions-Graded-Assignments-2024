@@ -1,0 +1,177 @@
+Question 1
+Which of these is a database query language?
+
+1 point
+
+Julia
+
+Python
+
+🔥SQL🔥
+
+All of the Above
+
+
+
+Question 2
+PyTorch is what type of Python library?
+
+1 point
+
+🔥Machine learning🔥
+
+Data visualization
+
+HTTP
+
+Linear algebra 
+
+
+
+Question 3
+What type of model is used to predict a target variable with two classes?
+
+1 point
+
+Clustering model
+
+Regression model
+
+🔥Classification model🔥
+
+
+
+Question 4
+What is Data Asset Management also known as?
+
+1 point
+
+Data strategy
+
+Perimeter security
+
+🔥Data governance🔥
+
+Data stewardship
+
+
+
+Question 5
+Which are the two most used open source tools for data science?
+
+1 point
+
+Notepad
+
+🔥RStudio🔥
+
+🔥Jupyter Notebooks / JupyterLab🔥
+
+Spyder
+
+VSCode
+
+
+
+Question 6
+RStudio is the tool most R developers use.
+
+1 point
+
+🔥Yes🔥
+
+No
+
+
+
+Question 7
+What type of environment is RStudio?
+
+1 point
+
+API
+
+Framework
+
+🔥Integrated Development Environment (IDE)🔥
+
+Software Development Kit (SDK)
+
+
+
+Question 8
+Which of the following statements about Jupyter Notebook is correct?
+
+1 point
+
+Jupyter Notebook provides storage of massive quantities of data in data lakes. 
+
+Jupyter Notebook is a commercial product of IBM.
+
+Jupyter Notebook is only available if installed locally on your computer.
+
+🔥Jupyter Notebook supports the Visualization of data in charts.🔥
+
+
+
+Question 9
+What is the  purpose of ggplot library  in R?
+
+1 point
+
+Data Manipulation
+
+🔥Data Visualization🔥
+
+String  Manipulation
+
+All of the above
+
+Machine Learning
+
+
+
+Question 10
+Which feature  of GitHub is a way of proposing changes to main branch?
+
+1 point
+
+🔥Pull Request🔥
+
+Fork
+
+All of the above
+
+Cloning
+
+
+
+Question 11
+Which of the following is a lightweight tool built from Jupyterlab components? 
+
+1 point
+
+VScode
+
+Spider
+
+GoogleColab
+
+All of the above
+
+🔥Jupyterlite🔥
+
+
+
+Question 12
+Which among the following is not a feature of Googlecolab?
+
+1 point
+
+Clone from GitHub and execute in GoogleColab
+
+Execute on browser
+
+Can be stored on Google drive
+
+🔥Upload and share with setup and installation🔥
