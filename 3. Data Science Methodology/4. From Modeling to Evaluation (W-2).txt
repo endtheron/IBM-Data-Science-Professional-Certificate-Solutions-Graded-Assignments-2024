@@ -1,0 +1,72 @@
+Question 1
+What is the main purpose of data modeling in the data science methodology?
+
+1 point
+
+To select an appropriate analytical approach
+
+To refine and adjust the problem statement
+
+To collect and compile raw data
+
+🔥To develop models for descriptive or predictive purposes🔥
+
+
+
+Question 2
+How does a training set contribute to predictive modeling?
+
+1 point
+
+🔥A training set serves as a calibration gauge for the model🔥
+
+It helps select appropriate algorithms
+
+A training set provides a set of unknown outcomes
+
+A training set contains variables that are not required for modeling
+
+
+
+Question 3
+What is the primary purpose of model evaluation in the data science methodology?
+
+1 point
+
+To deploy the model and monitor its performance
+
+To refine the data collection process
+
+🔥To assess the quality of the model and ensure it meets the initial request🔥
+
+To determine the optimal parameter values for model building
+
+
+
+Question 4
+What is the purpose of diagnostic measures during model evaluation?
+
+1 point
+
+To refine the model's design for predictive outcomes
+
+To assess the quality of relationships in a descriptive model
+
+🔥To ensure the model is working as intended🔥 
+
+To test the model's statistical significance
+
+
+
+Question 5
+What does the ROC curve help determine in model evaluation?
+
+1 point
+
+The relative misclassification cost of the model
+
+🔥The true-positive rate and false-positive rate for different criteria🔥
+
+The optimal model based on diagnostic measures
+
+The model's statistical significance
