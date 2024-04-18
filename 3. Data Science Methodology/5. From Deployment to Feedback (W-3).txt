@@ -1,0 +1,72 @@
+Question 1
+Which of the following options is essential for ensuring the relevance and usefulness of the answer derived from a data science model?
+
+1 point
+
+The complexity of the model
+
+The number of stakeholders involved
+
+The availability of data
+
+🔥Familiarity of stakeholders with the tool produced🔥
+
+
+
+Question 2
+In a business scenario, who are the stakeholders that help make the model’s answer relevant?
+
+1 point
+
+Hospital staff and patients.
+
+Data scientists and statisticians.
+
+Cognos application developers.
+
+🔥Solution owners, marketing, application developers, and IT administration.🔥
+
+
+
+Question 3
+Which of the following statements describes how data scientists refine the model after the initial deployment and feedback stages?
+
+1 point
+
+🔥By incorporating information about participation and possibly refining with detailed pharmaceutical data.🔥
+
+By conducting a complete overhaul of the model.
+
+By automating the intervention program.
+
+By collecting more data from controlled groups.
+
+
+
+Question 4
+How does the data science methodology ensure continuous improvement?
+
+1 point
+
+By making the methodology linear and rigid
+
+🔥By incorporating feedback and making adjustments🔥
+
+By automating the entire process
+
+By only relying on expert opinions
+
+
+
+Question 5
+What is the primary purpose of storytelling in data science?
+
+1 point
+
+To showcase programming skills
+
+🔥To communicate complex findings and insights effectively🔥
+
+To highlight personal achievements
+
+To impress colleagues with technical jargon
