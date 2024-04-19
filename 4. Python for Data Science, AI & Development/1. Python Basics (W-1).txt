@@ -1,0 +1,152 @@
+Question 1
+After executing the following lines of code, what value does x hold?
+
+
+ x=1
+
+x=x+1
+
+1 point
+
+4
+
+🔥2🔥
+
+3
+
+1
+
+
+
+Question 2
+What is the output of the following operation 1+3*2?
+
+1 point
+
+12
+
+10
+
+8
+
+🔥7🔥
+
+
+
+Question 3
+What data type does the value "7.1" represent?
+
+1 point
+
+Float
+
+🔥String🔥
+
+Character
+
+Integer
+
+
+
+Question 4
+What is the output of the following code segment?  int(True)
+
+1 point
+
+0
+
+53
+
+🔥1🔥
+
+Error
+
+
+
+Question 5
+In Python, what is the output of the following operation?  '1'+'2'
+
+1 point
+
+3
+
+‘1’
+
+'3'
+
+🔥'12'🔥
+
+
+
+Question 6
+Given myvar = 'hello', how would you return myvar as uppercase?
+
+1 point
+
+myvar.find('hello')
+
+len(myvar)
+
+upper(myvar)
+
+🔥myvar.upper()🔥
+
+
+
+Question 7
+What is the output of the following?   str(1)+str(1)
+
+1 point
+
+🔥'11'🔥
+
+2
+
+11
+
+‘2’
+
+
+
+Question 8
+What is the output of the following?  "ABC".replace("AB", "ab")
+
+1 point
+
+🔥'abC'🔥
+
+‘ABC’
+
+'ABc'
+
+‘abc’
+
+
+
+Question 9
+In Python 3, what data type does variable x hold after the operation: x = 1/1?
+
+1 point
+
+str
+
+🔥float🔥
+
+char
+
+int
+
+
+
+Question 10
+For the string “Fun Python” stored in a variable `x`, what will be the output of `x[0:5]`?
+
+1 point
+
+🔥‘Fun P’🔥
+
+‘Python’
+
+Error
+
+‘ Pytho’
