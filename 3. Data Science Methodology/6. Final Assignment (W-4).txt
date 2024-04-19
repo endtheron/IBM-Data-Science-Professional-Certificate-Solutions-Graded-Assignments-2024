@@ -1,0 +1,68 @@
+Topic: The increase in spam emails in the office emails.
+Submitted on April 19, 2024
+
+PROMPT
+Which topic did you choose to apply the data science methodology to? (2 points)
+
+Recently the emails of the office and some people are getting spammed with lots of spam emails regarding various advertisements or random advert emails on the daily. So we are trying to find the reasons and possible way to minimize the spam emails and whether it is the fault of the employees.
+
+RUBRIC
+Did the student pick one of the three topics proposed in the assignment overview?
+
+	
+0 points
+No
+
+	
+2 points
+Yes
+
+PROMPT
+Next, you will play the role of the client and the data scientist. 
+
+Using the topic that you selected, complete the Business Understanding stage by coming up with a problem that you would like to solve and phrasing it in the form of a question that you will use data to answer. (3 points)
+
+You are required to:
+
+Describe the problem, related to the topic you selected.
+
+Phrase the problem as a question to be answered using data.
+
+For example, using the food recipes use case discussed in the labs, the question that we defined was, "Can we automatically determine the cuisine of a given dish based on its ingredients?".
+
+1. Can we determine the average number of spam emails received by each of the employees?
+
+2. Can we determine whether the amount of spam emails received among the employees are due to the employees fault or due to organization?
+
+3. Can we determine the number of spam emails which are actually blocked by the spam folder and the number of spam emails which get through to the main email?
+
+
+PROMPT
+Briefly explain how you would complete each of the following stages for the problem that you described in the Business Understanding stage, so that you are ultimately able to answer the question that you came up with. (5 points):
+
+Analytic Approach
+
+Data Requirements
+
+Data Collection
+
+Data Understanding and Preparation
+
+Modeling and Evaluation
+
+You can always refer to the labs as a reference with describing how you would complete each stage for your problem.
+
+1. To determine what the average number of spam emails received by each of the member of the company we first look for the company information about the email since this is the company email so the data is accessible to the analysts 
+of the company. We the source the data from companies internal servers. We then prepare the data to have counts of the spam and generals folder of individual emails. Finally to find the average number of spams emails received we add 
+up all the spam emails by all the people and divide it by the total number of people.
+
+
+2.  Next we analyze the content of the different emails of the people and find if they signed up with various services or websites for different products using the work email and corresponding to the number we try to makes a pivot 
+table against the number for spam emails received by them. And we try to find a relationship if there exists between them signing up with different service which risks them of being their data sold to adverts and spam companies for 
+marketing. If there isn't much of a strong relations between the the increase of outside emails and the number of spam emails then the reason for the increase of the spam emails must be from the company and there has been some services 
+within the company which is compromising the data of the employees or at least it has access to the emails of the employees.
+
+
+3. Next to avoid a situation of the spam emails clouding the mails general emails folder we try to a analysis on the number of spam emails which are actually stopped out in the spam folder and the number of emails which went 
+through. We again access the same database for the number of email count in the spam and the emails marked as spam in the general email folder. And we blacklist the sender and addresses of the senders whose email got through to 
+the general email folder.
