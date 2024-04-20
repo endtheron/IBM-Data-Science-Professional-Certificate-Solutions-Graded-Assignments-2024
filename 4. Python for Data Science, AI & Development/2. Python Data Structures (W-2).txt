@@ -1,0 +1,153 @@
+Question 1
+Examine the tuple A=((11,12),[21,22]), which involves a tuple and list. What is the outcome of the following operation A[1]?
+
+1 point
+
+(11,12)
+
+🔥[21,22]🔥
+
+11
+
+((11,12),[21,22])
+
+
+
+Question 2
+Consider the tuple A=((1),[2,3],[4]), that contains a tuple and list. What is the result of the following operation A[2]?
+
+1 point
+
+[2,3]
+
+🔥[4]🔥
+
+3
+
+1
+
+
+
+Question 3
+If L = [‘c’, ‘d’], then the output of the statement `L.append([‘a’, ‘b’])` is:
+
+1 point
+
+[‘a’, ‘b’, ‘c’, ‘d’]
+
+🔥[‘c’, ‘d’, [‘a’, ‘b’]]🔥
+
+[[‘a’, ‘b’], ‘c’, ‘d’]
+
+[‘c’, ‘d’, ‘a’, ‘b’]
+
+
+
+Question 4
+Consider the following list: A=["hard rock",10,1.2]
+
+What will list A contain after the following command is run?  del(A[0])
+
+1 point
+
+🔥[10,1.2]🔥
+
+["hard rock",10,1.2]
+
+Syntax error
+
+["hard rock",10]
+
+
+
+Question 5
+If A is a list, what does the following syntax do?  B=A[:]
+
+1 point
+
+List A gets converted to a set and is loaded to B
+
+🔥Creates a new reference variable B that points to a copy or clone of the original list A🔥
+
+Assigns list A to list B
+
+B gets a transposed form of the list A
+
+
+
+Question 6
+What is the result of the following?  len(("disco",10))
+
+1 point
+
+6
+
+🔥2🔥
+
+7
+
+5
+
+
+
+Question 7
+Consider the following dictionary:
+
+{"The Bodyguard":"1992", "Saturday Night Fever":"1977"}
+
+Select the values.
+
+1 point
+
+🔥"1977"🔥
+
+🔥"1992"🔥
+
+"The Bodyguard"
+
+"Saturday Night Fever"
+
+
+
+Question 8
+The variable release_year_dict is a Python dictionary, what is the outcome of applying the following method?  release_year_dict.keys()
+
+1 point
+
+Retrieves the values of the dictionary
+
+Changes the dictionary to a list
+
+🔥Retrieves the keys of the dictionary🔥
+
+Retrieves the entire contents of the dictionary
+
+
+
+Question 9
+Consider the set: V={'A','B'}, what is the result of V.add('C')?
+
+1 point
+
+🔥{'A','B','C'}🔥
+
+{‘AC’, ‘BC’}
+
+{'A','B'}
+
+Error 
+
+
+
+Question 10
+What is the outcome of the following?  '1' in {'1','2'} 
+
+1 point
+
+1
+
+0
+
+False
+
+🔥True🔥
