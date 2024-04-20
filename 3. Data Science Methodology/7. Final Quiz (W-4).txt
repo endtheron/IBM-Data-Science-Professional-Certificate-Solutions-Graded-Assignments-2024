@@ -1,1 +1,147 @@
-..
+Question 1
+Fill in the blank: The first stage of the data science methodology is ___________________.
+
+1 point
+
+Modeling
+
+Data Understanding
+
+🔥Business Understanding🔥
+
+Data Collection
+
+
+
+Question 2
+What important stage in the data science methodology process clearly defines the problem and the needs from a business perspective?
+
+1 point
+
+Data Understanding
+
+Data Collection
+
+Modeling
+
+🔥Business Understanding🔥
+
+
+
+Question 3
+Fill in the blank: During the Data Collection stage, data scientists can apply ____________________ to the data set to assess the data content and quality and gain initial data insights.
+
+1 point
+
+🔥Descriptive statistics and visualization techniques🔥
+
+Predictive statistics
+
+Data modeling techniques 
+
+Stakeholder feedback
+
+
+
+Question 4
+ Training sets are used for what purpose?
+
+1 point
+
+Descriptive modeling
+
+Data Visualization
+
+Statistical analysis 
+
+🔥Predictive modeling🔥
+
+
+
+Question 5
+What type of error is a false-negative error?
+
+1 point
+
+Type III error
+
+🔥Type II error🔥
+
+Type L error
+
+Type I error
+
+
+
+Question 6
+During the Data Preparation stage, data scientists take which of the following actions?
+
+1 point
+
+🔥Address missing values🔥
+
+Ignore invalid values and outliers
+
+Organize duplicate data
+
+Retain original data formatting
+
+
+
+Question 7
+The final stages of the data science methodology are an iterative cycle between which stages?
+
+1 point
+
+Data Understanding, Data Preparation, Evaluation, and Feedback
+
+Data Preparation, Evaluation, Feedback, Deployment
+
+🔥Modeling, Evaluation, Deployment, and Feedback🔥
+
+Modeling, Deployment, Data Understanding, Data Preparation
+
+
+
+Question 8
+Select the correct sentence about the data science methodology as explained in the course.
+
+1 point
+
+Data science methodology depends on specific technologies or tools.
+
+Data science methodology provides data scientists with a framework for answering to management.
+
+The data science methodology requires going through all of the stages successively before going through the stages again.
+
+🔥Data science methodology always starts with Business Understanding.🔥
+
+
+
+Question 9
+Which techniques do data scientists typically use for exploratory data analysis?
+
+1 point
+
+They use support vector machines and neural networks as feature extraction techniques.
+
+🔥They use descriptive statistics and data visualization techniques🔥
+
+They begin with regression, classification, or clustering.
+
+They use deep learning
+
+
+
+Question 10
+Effective storytelling is crucial for data scientists to ___________.
+
+1 point
+
+🔥Communicate complex data insights and engage their audience🔥
+
+Assists data scientists in data collection
+
+Enhances visualization techniques
+
+Entertains audiences during the presentation
